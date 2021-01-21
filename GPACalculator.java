@@ -1,6 +1,6 @@
 package java1.school.assignment4;
 import java.util.*;
-public class Java1SchoolAssignment4 {
+public class GPACalculator {
 
     public static void main(String[] args) {
         System.out.println("GPA Calculation\n");
